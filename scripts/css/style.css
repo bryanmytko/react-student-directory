@@ -1,0 +1,59 @@
+body {
+  font-family: "Roboto", "Arial", sans-serif;
+  background: #68efad;
+}
+
+h1 {
+  font-family: "Viga", sans-serif;
+  color: #317051;
+  font-size: 48px;
+}
+
+.main-container {
+  width: 980px;
+  margin: 0 auto;
+}
+
+.students-container {
+  color: #fff;
+}
+
+.student-container {
+  width: 300px;
+  background: #7a1ea1;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.student-container img {
+  width: 300px;
+}
+
+.student-container .title {
+  padding: 40px 22px;
+  background: #691a99;
+  font-size: 28px;
+}
+
+.student-container .title a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.student-container .title a:hover {
+  opacity: .5;
+}
+
+.student-container .info {
+  font-family: "Helvetica", "Arial", sans-serif;
+  padding: 40px 22px;
+  font-weight: 100;
+  font-size: 15px;
+  line-height: 24px;
+  height: 180px;
+}
+
+.student-container .info span.label {
+  color: #E7C1FF;
+}
